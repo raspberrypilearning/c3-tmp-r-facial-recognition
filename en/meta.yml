@@ -1,13 +1,16 @@
+---
 title: Harry Potter and the Facial Recognition Classifier
 hero_image: images/banner.png
 description:
 version: 4
 listed: false
 copyedit: false
-last_tested: "2018-12-06"
+last_tested: '2018-12-06'
 steps:
-  - title: Introduction
-  - title: Building a Classify Function
-  - title: Using Your Own Photos, With a Camera
-  - title: Using Your Own Photos, Without a Camera
-  - title: Building an Interface
+- title: Introduction
+  completion: engaged
+- title: Building a Classify Function
+- title: Using Your Own Photos, With a Camera
+- title: Using Your Own Photos, Without a Camera
+  completion: internal
+- title: Building an Interface
